@@ -26,7 +26,7 @@
 
 
 ```
-% git clone https://github.com/kokikurahashi/cycleGAN
+% git clone https://github.com/rightcode/cycleGAN
 ``` 
 
 * If you want to train, please run "python train.py" after changing directory to "cycleGAN"
